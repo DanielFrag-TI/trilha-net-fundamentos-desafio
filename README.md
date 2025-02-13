@@ -35,4 +35,4 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+O desafio proposto forneceu o código incompleto; no entanto, todas as mudanças solicitadas foram implementadas, além de algumas melhorias adicionais. Por exemplo, agora o sistema verifica se a placa cadastrada já existe no estacionamento antes de permitir um novo registro.
